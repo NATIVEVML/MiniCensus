@@ -1,4 +1,4 @@
-# minicensus
+# MiniCensus
 
 A convenient JSON representation of the 2011 South African census data.
 The data is organised hierarchically: country, province, district, municipality, ward. 
